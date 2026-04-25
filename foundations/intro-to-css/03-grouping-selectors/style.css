@@ -1,6 +1,7 @@
 /* Add CSS Styling */
 
-.first .second {
+.first,
+.second {
     font-size: 28px;
     font-family: Helvetica, "Times new Roman", sans-serif;
 }
